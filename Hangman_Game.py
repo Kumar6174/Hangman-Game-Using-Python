@@ -60,7 +60,7 @@ stages=['''
 ============
 ''']
 # print(chosen_words,"\n")
-lives=5
+lives=6
 list1=[]
 word_length=len(chosen_words)
 
